@@ -118,7 +118,7 @@ timerRef.innerHTML = ` ${m} : ${s} : ${ms}`;
 </script>
 <style>
 body{
-background-image:url("https://thumbs.dreamstime.com/z/clock-icon-isolated-abstract-blue-background-illustration-design-clock-icon-abstract-blue-background-illustration-design-167323346.jpg");
+background-image:url("https://fbcd.co/images/products/345ad856ccaa08bb4e8e7cf40d9ce25f_resize.jpg");
 background-repeat:no repeat;
 }
 #digiclock{
