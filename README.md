@@ -1,1 +1,2 @@
 # mini-project
+Code for a clock application using HTML,CSS and JAVASCRIPT. Initially, a welcome page is displayed showing two buttons-Time and Stopwatch. The time button when clicked,  displays a digital clock showing the current time in a 24-hours format. The stop watch displays three buttons-start,pause and reset and has three blocks to display the hours, minutes and seconds. The start button lets us start the counting, The pause button lets us pause the counting And the reset button lets us reset the counting back to zero.
